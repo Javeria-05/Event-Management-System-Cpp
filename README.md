@@ -28,6 +28,7 @@ This system allows you to add events, register participants, view registration o
 ---
 
 ## How to Run
+
 1. Make sure you have a C++ compiler (like g++, CodeBlocks, or Dev C++)
 2. Save the code in a file (e.g., `main.cpp`)
 3. Compile & run:
@@ -52,7 +53,7 @@ g++ main.cpp -o eventSystem
 
 ## Developer
 Name: Javeria Irum
-University: COMSATS University Islamabad, Attock Campus
+University: COMSATS University Islamabad
 GitHub: Javeria-05
 
 ---
